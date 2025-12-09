@@ -6,7 +6,7 @@ Deep_Reinforcement_Learning_Healthcare_Appointment_Scheduling:
 - DRL_Project_notebook.ipynb # Jupyter Notebook version of the project
 - DRL_Project_notebook.py # Python script version of the project
 - README.md # This file
-- Project_proposal.pdf - # Proposal document 
+- Project_Proposal.pdf - # Proposal document 
 - requirements.txt # Containing the library requirements 
 - Project_Report.pdf # Detailed report of this project
 
