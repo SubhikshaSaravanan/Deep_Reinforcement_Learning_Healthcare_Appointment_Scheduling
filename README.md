@@ -1,12 +1,13 @@
 # Deep_Reinforcement_Learning_Healthcare_Appointment_Scheduling
 Reinforcement learning-based outpatient appointment scheduling for optimizing patient waiting times and doctor utilization. Includes both Jupyter Notebook and Python script implementations.
 
-Deep_Reinforcement_Learning_Healthcare_Appointment_Scheduling/
-│
-├── DRL_Project_notebook.ipynb # Jupyter Notebook version of the project
-├── DRL_Project_notebook.py # Python script version of the project
-├── README.md # This file
-├── requirements.txt # Python dependencies (if available)
+Deep_Reinforcement_Learning_Healthcare_Appointment_Scheduling: 
+
+- DRL_Project_notebook.ipynb # Jupyter Notebook version of the project
+- DRL_Project_notebook.py # Python script version of the project
+- README.md # This file
+- requirements.txt # Containing the library requirements 
+- Project_Report.pdf # Detailed report of this project
 
 
 ## Project Overview:
@@ -24,6 +25,8 @@ The system simulates an 8-hour outpatient clinic with multiple doctors, stochast
 - Jupyter Notebook version for interactive exploration.
 - Includes step-by-step code, explanations, visualizations, and results.
 - Ideal for experimenting with hyperparameters, reward functions, and agent policies.
+   ```bash
+   Jupyter DRL_Project_notebook.ipynb
 
 ### `DRL_Project_notebook.py`:
 - Standalone Python script version for running experiments without a Jupyter environment.
@@ -57,6 +60,8 @@ The system simulates an 8-hour outpatient clinic with multiple doctors, stochast
 - seaborn
 - gym (for simulation environment)
 - tensorflow or torch (depending on DQN implementation)
+- scipy
+- torch
 
 ### Install dependencies using: 
 pip install -r requirements.txt
@@ -67,7 +72,12 @@ pip install -r requirements.txt
 - Run cells sequentially to see simulations, training progress, and results.
 - Visualizations and tables will appear inline.
 
-Outputs will be displayed in the terminal and saved as plots in the working directory.
+### How to Run Python Script:
+
+- Open a terminal or command prompt.
+- Navigate to the repository folder: cd path/to/Deep_Reinforcement_Learning_Healthcare_Appointment_Scheduling
+- Run the Python script.
+- Outputs will be displayed in the terminal and saved as plots in the working directory.
 
 ### Results:
 
