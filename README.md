@@ -4,7 +4,7 @@ Reinforcement learning-based outpatient appointment scheduling for optimizing pa
 Deep_Reinforcement_Learning_Healthcare_Appointment_Scheduling: 
 
 - DRL_Project_notebook.ipynb # Jupyter Notebook version of the project
-- DRL_Project_notebook.py # Python script version of the project
+- drl_project_notebook.py # Python script version of the project
 - README.md # This file
 - Project_Proposal.pdf - # Proposal document 
 - requirements.txt # Containing the library requirements 
@@ -27,14 +27,14 @@ The system simulates an 8-hour outpatient clinic with multiple doctors, stochast
 - Includes step-by-step code, explanations, visualizations, and results.
 - Ideal for experimenting with hyperparameters, reward functions, and agent policies.
    ```bash
-   Jupyter DRL_Project_notebook.ipynb
+   DRL_Project_notebook.ipynb
 
 ### `DRL_Project_notebook.py`:
 - Standalone Python script version for running experiments without a Jupyter environment.
 - Produces the same results and visualizations as the notebook.
 - Can be executed directly from the command line:
   ```bash
-  python DRL_Project_notebook.py
+  drl_project_notebook.py
 
 ### Key Features:
 
