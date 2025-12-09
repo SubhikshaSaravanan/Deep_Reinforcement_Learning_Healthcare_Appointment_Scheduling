@@ -64,7 +64,7 @@ The system simulates an 8-hour outpatient clinic with multiple doctors, stochast
 - torch
 
 ### Install dependencies using: 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 ### How to Run Jupyter Notebook:
 
